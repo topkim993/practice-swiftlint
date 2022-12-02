@@ -32,7 +32,8 @@ opt_in_rules:
     - weak_delegate
     - implicitly_unwrapped_optional
     - force_unwrapping
-
+    - force_try
+    - force_cast
 disabled_rules:
     - trailing_whitespace
 
